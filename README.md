@@ -1,4 +1,3 @@
-```markdown
 # Program4
 
 ## Описание
